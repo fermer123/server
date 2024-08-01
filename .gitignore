@@ -1,0 +1,10 @@
+#build
+build/
+#node_modules
+node_modules/
+#snapshot 4 me
+__snapshots__/
+#dist
+dist/
+#tests
+coverage/
